@@ -8,5 +8,3 @@ Carlos
 louise
 jimmy
 sandie
-~
-
